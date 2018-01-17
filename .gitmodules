@@ -1,0 +1,3 @@
+[submodule "Motion_Profiler_Class"]
+	path = Motion_Profiler_Class
+	url = https://github.com/vannaka/Motion_Profiler_Class.git
