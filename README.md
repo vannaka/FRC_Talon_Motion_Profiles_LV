@@ -1,2 +1,2 @@
-# TalonSRX_Motion_Profiler_LV
-Execute motion profiles on the Talon SRX in LabView
+# FRC_Talon_Motion_Profiles_LV
+Execute motion profiles on the Talon SRX with LabView
